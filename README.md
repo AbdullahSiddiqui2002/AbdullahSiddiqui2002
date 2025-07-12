@@ -7,7 +7,7 @@
 ---
 
 ## 💫 About Me
-🎓 Final Year Software Engineering student at **University of Karachi** (CGPA: 3.15)  
+🎓 Final Year Software Engineering student at **University of Karachi** (CGPA: 3.16)  
 👨‍💻 Full Stack Developer with a focus on `.NET` & `Angular`  
 🧠 Passionate about clean code, innovation, and solving real-world problems  
 🚀 Always eager to learn and explore new technologies  
