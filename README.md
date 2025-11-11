@@ -53,7 +53,7 @@
 
 ## 💼 Work Experience
 
-**🔹 Codoyens – Angular & .NET Developer (July 2025 – Present)**  
+**🔹 Codoyens – Angular & .NET Developer (July 2025 – Oct 2025)**  
 🔸 Building scalable full-stack solutions with Angular and ASP.NET Core  
 🔸 Collaborating on client and in-house projects  
 
