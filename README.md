@@ -38,6 +38,8 @@
 📌 Integrated AI-powered chatbot, food scanner & medical report analysis  
 📌 Built scalable backend architecture with clean separation of concerns  
 
+🔗 https://diabetescaresystem.vercel.app
+
 ---
 
 ### 🔹 Generic Medicine Finder  
@@ -46,6 +48,8 @@
 📌 Implemented efficient CRUD operations with optimized queries  
 📌 Integrated OpenStreetMap APIs (Overpass & Nominatim) for location-based pharmacy search  
 📌 Designed structured database relationships for medicine management  
+
+🔗 https://altmedicinefinder.vercel.app
 
 ---
 
